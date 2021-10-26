@@ -1,0 +1,101 @@
+{
+  "isDnd": false,
+  "volume": 1.0,
+  "parentRoom": null,
+  "views": [
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+  ],
+  "layers": [
+    {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mini_games","path":"objects/obj_mini_games/obj_mini_games.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":83.1242752,"resourceVersion":"1.0","name":"inst_55D7B561","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":104.8,"y":167.817917,"resourceVersion":"1.0","name":"inst_5EAE35A9","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":205.599976,"y":167.817917,"resourceVersion":"1.0","name":"inst_261AAF96","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":306.4,"y":167.817917,"resourceVersion":"1.0","name":"inst_32429B91","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":407.199982,"y":167.817917,"resourceVersion":"1.0","name":"inst_16879525","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":104.8,"y":275.6098,"resourceVersion":"1.0","name":"inst_114DA5AA","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game6","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":205.599976,"y":275.6098,"resourceVersion":"1.0","name":"inst_651DBA5A","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game7","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"6","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":306.4,"y":275.6098,"resourceVersion":"1.0","name":"inst_25AAEAFC","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_mini_game8","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"7","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":407.199982,"y":275.6098,"resourceVersion":"1.0","name":"inst_12F3FD89","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"room_name","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"room_main_menu","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"image_index","path":"objects/obj_mini_button/obj_mini_button.yy",},"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"value":"8","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"obj_mini_button","path":"objects/obj_mini_button/obj_mini_button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.8,"scaleY":1.92485547,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":375.702332,"resourceVersion":"1.0","name":"inst_6A0BF174","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"spriteId":{"name":"spr_menu_background","path":"sprites/spr_menu_background/spr_menu_background.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
+  ],
+  "inheritLayers": false,
+  "creationCodeFile": "",
+  "inheritCode": false,
+  "instanceCreationOrder": [
+    {"name":"inst_55D7B561","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_5EAE35A9","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_261AAF96","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_32429B91","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_16879525","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_114DA5AA","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_651DBA5A","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_25AAEAFC","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_12F3FD89","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+    {"name":"inst_6A0BF174","path":"rooms/room_mini_games_menu/room_mini_games_menu.yy",},
+  ],
+  "inheritCreationOrder": false,
+  "sequenceId": null,
+  "roomSettings": {
+    "inheritRoomSettings": false,
+    "Width": 512,
+    "Height": 480,
+    "persistent": false,
+  },
+  "viewSettings": {
+    "inheritViewSettings": false,
+    "enableViews": false,
+    "clearViewBackground": false,
+    "clearDisplayBuffer": true,
+  },
+  "physicsSettings": {
+    "inheritPhysicsSettings": false,
+    "PhysicsWorld": false,
+    "PhysicsWorldGravityX": 0.0,
+    "PhysicsWorldGravityY": 10.0,
+    "PhysicsWorldPixToMetres": 0.1,
+  },
+  "parent": {
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "room_mini_games_menu",
+  "tags": [],
+  "resourceType": "GMRoom",
+}
