@@ -1,0 +1,1 @@
+Base project for the Tain video game. All assets and rooms have been removed and added to the contributor's individual folders
