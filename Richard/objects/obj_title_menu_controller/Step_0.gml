@@ -1,6 +1,6 @@
 //get inputs
-up_key = keyboard_check_pressed(vk_up);
-down_key = keyboard_check_pressed(vk_down);
+up_key = keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W"));
+down_key = keyboard_check_pressed(vk_down) || keyboard_check_pressed(ord("S"));
 accept_key = keyboard_check_pressed(vk_enter);
 
 //store number of options in current menu
@@ -16,7 +16,6 @@ if(pos < 0)
 {
 	pos = op_length - 1;
 }
-
 
 //using the options
 if(accept_key)

@@ -5,15 +5,12 @@ for(var i = 0; i < op_length; i++)
 	var _op_w = string_width(option[menu_level, i]);
 	_new_w = max(_new_w, _op_w);
 }
-width = _new_w + op_border*2;
-height = op_border*2 + string_height(option[0, 0]) + (op_length-1)*op_space;
+width = _new_w + op_border*2; //rs
+height = op_border*2 + string_height(option[0, 0]) + (op_length-1)*op_space; //ls
 
 //center menu
 x = (room_width/2) - op_border/3;
 y = (room_height/2) - op_border*3;
-
-//draw menu background
-//draw_sprite_ext(sprite_index, image_index, x, y, width/sprite_width, height/sprite_height, 0, c_white, 1);
 
 //draw the options
 draw_set_font(font_rockwell);
