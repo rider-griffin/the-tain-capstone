@@ -1,7 +1,7 @@
 {
   "parent": {
-    "name": "the-tain-capstone",
-    "path": "the-tain-capstone.yyp",
+    "name": "Notes",
+    "path": "folders/Notes.yy",
   },
   "resourceVersion": "1.1",
   "name": "Note1",

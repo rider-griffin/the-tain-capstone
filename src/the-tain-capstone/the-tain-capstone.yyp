@@ -16,6 +16,7 @@
     {"id":{"name":"ground","path":"sprites/ground/ground.yy",},"order":1,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":6,},
     {"id":{"name":"water","path":"sprites/water/water.yy",},"order":9,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":9,},
     {"id":{"name":"snow_mountain","path":"sprites/snow_mountain/snow_mountain.yy",},"order":8,},
     {"id":{"name":"bridge_tileset","path":"tilesets/bridge_tileset/bridge_tileset.yy",},"order":16,},
     {"id":{"name":"test4","path":"rooms/test4/test4.yy",},"order":3,},
@@ -53,7 +54,7 @@
     {"id":{"name":"font_rockwell","path":"fonts/font_rockwell/font_rockwell.yy",},"order":0,},
     {"id":{"name":"campfire","path":"sprites/campfire/campfire.yy",},"order":5,},
     {"id":{"name":"spr_main_story","path":"sprites/spr_main_story/spr_main_story.yy",},"order":4,},
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":15,},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
