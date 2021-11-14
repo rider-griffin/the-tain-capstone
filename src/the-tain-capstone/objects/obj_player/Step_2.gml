@@ -1,6 +1,7 @@
 switch(animation_state)
 {
 	case 0: //IDLE
+		image_index = 0;
 		image_speed = 0;
 		break;
 	case 1: //UP

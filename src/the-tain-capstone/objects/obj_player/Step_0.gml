@@ -7,8 +7,43 @@ var attack = keyboard_check(vk_space);
 xVelocity = (right - left) * walkSpeed;
 yVelocity = (down - up) * walkSpeed;
 
-x += xVelocity;
-y += yVelocity;
+//x += xVelocity;
+//y += yVelocity;
+
+var predictedX = x + xVelocity;
+var predictedY = y + yVelocity;
+
+if(!place_meeting(predictedX, y, obj_collision_box))
+{
+	x+= xVelocity;
+}
+else
+{
+	//deal with X collision
+	predictedX = x;
+	while(!place_meeting(predictedX, y, obj_collision_box))
+	{
+		predictedX += sign(xVelocity); //move 1 pixel until collision box
+	}
+	predictedX -= sign(xVelocity); //move 1 pixel away from collision box
+	x = predictedX;
+}
+if(!place_meeting(x, predictedY, obj_collision_box))
+{
+	y+= yVelocity;
+}
+else
+{
+	//deal with y collision
+	predictedY = y;
+	while(!place_meeting(x, predictedY, obj_collision_box))
+	{
+		predictedY += sign(yVelocity); //move 1 pixel until collision box
+	}
+	predictedY -= sign(yVelocity); //move 1 pixel away from collision box
+	y = predictedY;
+}
+
 
 if(((down - up) == 0) && ((right-left) == 0))
 {
