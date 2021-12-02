@@ -55,7 +55,7 @@ for (i=gp_face1; i<gp_axisrv; i++){
 
 //draw the menu
 var ax = room_width/2;	//x loc on the GUI to anchor the menu from top left
-var ay = room_height/2;	//y loc on the GUI to anchor the menu from top left
+var ay = room_height/1.75;	//y loc on the GUI to anchor the menu from top left
 var txt;
 var col;
 var i;
