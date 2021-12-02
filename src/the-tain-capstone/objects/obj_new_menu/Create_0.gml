@@ -1,4 +1,4 @@
-color1 = c_gray;	//unselected items
+color1 = c_black;	//unselected items
 color2 = c_white;	//selected items
 vS = 35;		//vertical space
 
