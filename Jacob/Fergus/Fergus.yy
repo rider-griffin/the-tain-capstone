@@ -85,8 +85,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "JacobSprites",
+    "path": "folders/Sprites/JacobSprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "Fergus",
