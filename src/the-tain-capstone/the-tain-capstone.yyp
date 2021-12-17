@@ -109,7 +109,7 @@
     {"id":{"name":"de5990ff_cdb0_4898_a9d3_b456675117ff","path":"sprites/de5990ff_cdb0_4898_a9d3_b456675117ff/de5990ff_cdb0_4898_a9d3_b456675117ff.yy",},"order":28,},
     {"id":{"name":"TD_Woods","path":"rooms/TD_Woods/TD_Woods.yy",},"order":13,},
     {"id":{"name":"grass","path":"sprites/grass/grass.yy",},"order":17,},
-    {"id":{"name":"TileSet34","path":"tilesets/TileSet34/TileSet34.yy",},"order":18,},
+    {"id":{"name":"water_tileset2","path":"tilesets/water_tileset2/water_tileset2.yy",},"order":18,},
     {"id":{"name":"font_rockwell","path":"fonts/font_rockwell/font_rockwell.yy",},"order":0,},
     {"id":{"name":"Sprite140","path":"sprites/Sprite140/Sprite140.yy",},"order":15,},
     {"id":{"name":"ground_tileset3","path":"tilesets/ground_tileset3/ground_tileset3.yy",},"order":6,},

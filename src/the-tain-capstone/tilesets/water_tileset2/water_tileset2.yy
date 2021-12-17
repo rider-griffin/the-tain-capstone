@@ -27684,7 +27684,7 @@
     "path": "folders/Tile Sets/natural_tileset.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TileSet34",
+  "name": "water_tileset2",
   "tags": [],
   "resourceType": "GMTileSet",
 }
