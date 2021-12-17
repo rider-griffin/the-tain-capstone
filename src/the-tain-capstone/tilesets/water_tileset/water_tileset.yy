@@ -2336,8 +2336,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "natural_tileset",
+    "path": "folders/Tile Sets/natural_tileset.yy",
   },
   "resourceVersion": "1.0",
   "name": "water_tileset",
