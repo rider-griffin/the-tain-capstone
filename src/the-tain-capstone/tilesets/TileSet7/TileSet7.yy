@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "tile_set7",
-    "path": "sprites/tile_set7/tile_set7.yy",
+    "name": "outside1",
+    "path": "sprites/outside1/outside1.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
@@ -2336,8 +2336,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "Lydiatileset",
+    "path": "folders/Tile Sets/Lydiatileset.yy",
   },
   "resourceVersion": "1.0",
   "name": "TileSet7",

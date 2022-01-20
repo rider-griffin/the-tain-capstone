@@ -3,7 +3,6 @@
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
-  "applyKerning": 0,
   "fontName": "Rockwell",
   "styleName": "Bold",
   "size": 22.0,

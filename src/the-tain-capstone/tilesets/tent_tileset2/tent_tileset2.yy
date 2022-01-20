@@ -4128,8 +4128,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "Lydiatileset",
+    "path": "folders/Tile Sets/Lydiatileset.yy",
   },
   "resourceVersion": "1.0",
   "name": "tent_tileset2",
