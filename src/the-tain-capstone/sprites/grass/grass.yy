@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "LydiaSprites",
+    "path": "folders/Sprites/LydiaSprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "grass",
