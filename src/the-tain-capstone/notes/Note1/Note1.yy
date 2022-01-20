@@ -1,7 +1,7 @@
 {
   "parent": {
     "name": "Notes",
-    "path": "folders/Notes.yy",
+    "path": "folders/Fonts/Notes.yy",
   },
   "resourceVersion": "1.1",
   "name": "Note1",
