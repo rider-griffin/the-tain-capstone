@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "wizardhouse",
-    "path": "sprites/wizardhouse/wizardhouse.yy",
+    "name": "wizardhouse82",
+    "path": "sprites/wizardhouse82/wizardhouse82.yy",
   },
   "tileWidth": 8,
   "tileHeight": 8,

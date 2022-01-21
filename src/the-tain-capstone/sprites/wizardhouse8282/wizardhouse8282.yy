@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 511,
+  "bbox_right": 1023,
   "bbox_top": 0,
-  "bbox_bottom": 1407,
+  "bbox_bottom": 2815,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 512,
-  "height": 1408,
+  "width": 1024,
+  "height": 2816,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"11c7fbcb-eec7-4125-a6c0-8587bc0fc4e7","path":"sprites/wizardhouse/wizardhouse.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"11c7fbcb-eec7-4125-a6c0-8587bc0fc4e7","path":"sprites/wizardhouse/wizardhouse.yy",},"LayerId":{"name":"941f668f-b31c-411e-99cd-8255f9f88f34","path":"sprites/wizardhouse/wizardhouse.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"wizardhouse","path":"sprites/wizardhouse/wizardhouse.yy",},"resourceVersion":"1.0","name":"11c7fbcb-eec7-4125-a6c0-8587bc0fc4e7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"00c33804-b80f-4002-8967-59d6b9d18767","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"00c33804-b80f-4002-8967-59d6b9d18767","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},"LayerId":{"name":"241e26bf-6cc6-4116-8a0c-21d3998e8ac7","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"wizardhouse8282","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},"resourceVersion":"1.0","name":"00c33804-b80f-4002-8967-59d6b9d18767","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"wizardhouse","path":"sprites/wizardhouse/wizardhouse.yy",},
+    "spriteId": {"name":"wizardhouse8282","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c3e0c021-f4fb-4094-9404-a0e71677bb7c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"11c7fbcb-eec7-4125-a6c0-8587bc0fc4e7","path":"sprites/wizardhouse/wizardhouse.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6f9265b0-a697-46a8-991f-632257f4dbc6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"00c33804-b80f-4002-8967-59d6b9d18767","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"wizardhouse","path":"sprites/wizardhouse/wizardhouse.yy",},
+    "parent": {"name":"wizardhouse8282","path":"sprites/wizardhouse8282/wizardhouse8282.yy",},
     "resourceVersion": "1.3",
-    "name": "wizardhouse",
+    "name": "wizardhouse82",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"941f668f-b31c-411e-99cd-8255f9f88f34","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"241e26bf-6cc6-4116-8a0c-21d3998e8ac7","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/LydiaSprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "wizardhouse",
+  "name": "wizardhouse8282",
   "tags": [],
   "resourceType": "GMSprite",
 }

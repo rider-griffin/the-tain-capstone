@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "outside1",
-    "path": "sprites/outside1/outside1.yy",
+    "name": "Outside_B82",
+    "path": "sprites/Outside_B82/Outside_B82.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
