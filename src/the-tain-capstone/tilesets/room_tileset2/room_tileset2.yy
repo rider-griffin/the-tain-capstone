@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "__2",
-    "path": "sprites/__2/__2.yy",
+    "name": "__282",
+    "path": "sprites/__282/__282.yy",
   },
   "tileWidth": 8,
   "tileHeight": 8,

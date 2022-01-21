@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Happy_New_Year",
+    "path": "sprites/Happy_New_Year/Happy_New_Year.yy",
+  },
   "tileWidth": 8,
   "tileHeight": 8,
   "tilexoff": 0,
