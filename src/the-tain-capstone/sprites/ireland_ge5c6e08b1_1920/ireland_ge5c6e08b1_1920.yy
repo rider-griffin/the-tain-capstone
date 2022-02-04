@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"dd90b464-9655-4e03-95c1-46eda6167ab6","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dd90b464-9655-4e03-95c1-46eda6167ab6","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"LayerId":{"name":"612e587d-4795-43c6-aa4c-099275376567","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"dd90b464-9655-4e03-95c1-46eda6167ab6","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"LayerId":{"name":"2130b1b8-fe3b-4073-9889-f9b9e3374c3b","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"dd90b464-9655-4e03-95c1-46eda6167ab6","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"LayerId":{"name":"612e587d-4795-43c6-aa4c-099275376567","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"ireland_ge5c6e08b1_1920","path":"sprites/ireland_ge5c6e08b1_1920/ireland_ge5c6e08b1_1920.yy",},"resourceVersion":"1.0","name":"dd90b464-9655-4e03-95c1-46eda6167ab6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
