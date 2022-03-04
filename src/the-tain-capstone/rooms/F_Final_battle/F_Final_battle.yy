@@ -243,8 +243,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "CH14",
+    "path": "folders/Rooms/CH14.yy",
   },
   "resourceVersion": "1.0",
   "name": "F_Final_battle",
