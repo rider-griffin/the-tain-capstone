@@ -17,42 +17,42 @@ if(point_in_rectangle(mouse_x, mouse_y, x - sprite_width/2, y - sprite_height/2,
 		if(pass == "level1" && image_index == 0)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game1);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level2" && image_index == 1)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game2);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level3" && image_index == 2)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game3);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level4" && image_index == 3)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game4);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level5" && image_index == 4)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game5);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level6" && image_index == 5)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game6);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level7" && image_index == 6)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game7);
+			room_goto(room_main_menu);
 		}
 		else if(pass == "level8" && image_index == 7)
 		{
 			//var rm = asset_get_index(room_name);
-			room_goto(room_mini_game8);
+			room_goto(room_main_menu);
 		}
 		else
 		{
