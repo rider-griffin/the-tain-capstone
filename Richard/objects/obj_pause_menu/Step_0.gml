@@ -6,12 +6,12 @@ input_escape_p = keyboard_check_pressed(global.key_escape);
 if(input_escape_p)
 {
 	global.pause = true;
-	//instance_deactivate_layer(layer_get_id("Instances"));
+	instance_deactivate_layer("Instances");
 }
 
 if(!global.pause) 
 {
-	//instance_activate_layer(layer_get_id("Instances")); 
+	instance_activate_layer("Instances"); 
 	exit;
 }
 

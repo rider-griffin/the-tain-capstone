@@ -37,8 +37,8 @@ enum menu_element_type {
 ds_menu_main = create_menu_page(
 	["Resume", menu_element_type.script_runner, resume_game],
 	["Settings", menu_element_type.page_transfer, menu_page2.settings],
+	["Return to Menu", menu_element_type.script_runner, change_room], //go to main menu
 	["Quit Game", menu_element_type.script_runner, exit_game] //quit
-	//["Main Menu", menu_element_type.page_transfer, menu_page.main] //go to main menu
 );
 
 ds_settings = create_menu_page(

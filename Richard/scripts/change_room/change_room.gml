@@ -10,8 +10,12 @@ function change_room()
 		room_goto(room_mini_games_menu); 
 	}
 	//Main Story
-	else
+	else if(type == 1)
 	{
 		room_goto(room_main_games_menu); 
+	}
+	else
+	{
+		room_goto(room_main_menu);
 	}
 }

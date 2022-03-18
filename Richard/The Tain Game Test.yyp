@@ -75,6 +75,7 @@
     {"id":{"name":"TileSet28","path":"tilesets/TileSet28/TileSet28.yy",},"order":31,},
     {"id":{"name":"TileSet23","path":"tilesets/TileSet23/TileSet23.yy",},"order":29,},
     {"id":{"name":"TileSet29","path":"tilesets/TileSet29/TileSet29.yy",},"order":32,},
+    {"id":{"name":"spr_pause_menu","path":"sprites/spr_pause_menu/spr_pause_menu.yy",},"order":6,},
     {"id":{"name":"outsdie_tileset2","path":"tilesets/outsdie_tileset2/outsdie_tileset2.yy",},"order":13,},
     {"id":{"name":"Medb_confident_spk","path":"sprites/Medb_confident_spk/Medb_confident_spk.yy",},"order":1,},
     {"id":{"name":"grass_tileset","path":"tilesets/grass_tileset/grass_tileset.yy",},"order":4,},
@@ -207,6 +208,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"F_Connacht_fort","path":"rooms/F_Connacht_fort/F_Connacht_fort.yy",},},
     {"roomId":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
     {"roomId":{"name":"F_Connacht_fort_bedroom","path":"rooms/F_Connacht_fort_bedroom/F_Connacht_fort_bedroom.yy",},},
     {"roomId":{"name":"room_main_games_menu","path":"rooms/room_main_games_menu/room_main_games_menu.yy",},},
@@ -216,7 +218,6 @@
     {"roomId":{"name":"F_Woods","path":"rooms/F_Woods/F_Woods.yy",},},
     {"roomId":{"name":"F_1v1_battles","path":"rooms/F_1v1_battles/F_1v1_battles.yy",},},
     {"roomId":{"name":"TD_Woods","path":"rooms/TD_Woods/TD_Woods.yy",},},
-    {"roomId":{"name":"F_Connacht_fort","path":"rooms/F_Connacht_fort/F_Connacht_fort.yy",},},
     {"roomId":{"name":"F_Final_battle","path":"rooms/F_Final_battle/F_Final_battle.yy",},},
     {"roomId":{"name":"rm_test_dialogue_system","path":"rooms/rm_test_dialogue_system/rm_test_dialogue_system.yy",},},
     {"roomId":{"name":"Boy_troop_field_CH4_1","path":"rooms/Boy_troop_field_CH4_1/Boy_troop_field_CH4_1.yy",},},
@@ -273,7 +274,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.0.614",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "The Tain Game Test",
