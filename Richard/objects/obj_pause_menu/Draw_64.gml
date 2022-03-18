@@ -11,8 +11,8 @@ var start_x = gwidth/2;
 var start_y = (gheight/2) - ((((ds_height - 1)/2) * y_buffer)), start_x = gwidth/2;
 
 //Draw Pause Menu "Background"
-var c = c_ltgray;
-draw_rectangle_color(gwidth/2 - 150,gheight/2 - 100,gwidth/2 + 160,gheight/2 + 100,c,c,c,c,false); //black background
+draw_sprite_ext(spr_pause_menu, image_index, gwidth/2 - 190, gheight/2 - 117.5, 2, 1.25, 0, -1, 1)
+var c = c_white;
 
 //Draw Elements on Left Side 
 draw_set_valign(fa_middle);
@@ -37,6 +37,7 @@ repeat(ds_height)
 }
 
 //Draw Dividing Line
+draw_set_color(c_black);
 draw_line(start_x, start_y - y_buffer/2, start_x, lty+y_buffer/2);
 
 //Draw Elements on Right Side

@@ -48,8 +48,8 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "the-tain-capstone",
+    "path": "the-tain-capstone.yyp",
   },
   "resourceVersion": "1.0",
   "name": "TileSet23",
