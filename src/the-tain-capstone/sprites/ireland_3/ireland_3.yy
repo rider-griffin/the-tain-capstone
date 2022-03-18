@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"8c8e3062-d1b3-4dc4-8405-699fc9cd8b0f","path":"sprites/ireland_3/ireland_3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8c8e3062-d1b3-4dc4-8405-699fc9cd8b0f","path":"sprites/ireland_3/ireland_3.yy",},"LayerId":{"name":"6fe5ba17-4623-4bff-b5c7-76c09b32e597","path":"sprites/ireland_3/ireland_3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"8c8e3062-d1b3-4dc4-8405-699fc9cd8b0f","path":"sprites/ireland_3/ireland_3.yy",},"LayerId":{"name":"77568027-e217-4dd1-918f-3d397aba558e","path":"sprites/ireland_3/ireland_3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"8c8e3062-d1b3-4dc4-8405-699fc9cd8b0f","path":"sprites/ireland_3/ireland_3.yy",},"LayerId":{"name":"6fe5ba17-4623-4bff-b5c7-76c09b32e597","path":"sprites/ireland_3/ireland_3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"ireland_3","path":"sprites/ireland_3/ireland_3.yy",},"resourceVersion":"1.0","name":"8c8e3062-d1b3-4dc4-8405-699fc9cd8b0f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -43,7 +43,7 @@
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"da56beef-5aa0-4a62-acc3-5f9d477d86f0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8c8e3062-d1b3-4dc4-8405-699fc9cd8b0f","path":"sprites/ireland_3/ireland_3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -60,7 +60,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"ireland_3","path":"sprites/ireland_3/ireland_3.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "ireland_3",
     "tags": [],
     "resourceType": "GMSequence",
