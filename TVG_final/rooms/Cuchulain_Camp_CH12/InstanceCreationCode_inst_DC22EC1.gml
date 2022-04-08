@@ -1,0 +1,1 @@
+text_id = "Ulster rises from its pangs";

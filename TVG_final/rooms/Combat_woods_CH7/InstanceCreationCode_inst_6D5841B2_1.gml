@@ -1,0 +1,1 @@
+text_id = "Single Combat - Start Battle";
