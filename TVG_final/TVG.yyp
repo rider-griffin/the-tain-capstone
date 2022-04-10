@@ -299,8 +299,8 @@
     ],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Combat_CH5","path":"rooms/Combat_CH5/Combat_CH5.yy",},},
     {"roomId":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
+    {"roomId":{"name":"Combat_CH5","path":"rooms/Combat_CH5/Combat_CH5.yy",},},
     {"roomId":{"name":"Combat_CH8","path":"rooms/Combat_CH8/Combat_CH8.yy",},},
     {"roomId":{"name":"Combat_CH7","path":"rooms/Combat_CH7/Combat_CH7.yy",},},
     {"roomId":{"name":"Army_Camp_CH7","path":"rooms/Army_Camp_CH7/Army_Camp_CH7.yy",},},
