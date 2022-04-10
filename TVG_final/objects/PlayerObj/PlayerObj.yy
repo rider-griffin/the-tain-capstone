@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "CuChulainn_Down_1",
-    "path": "sprites/CuChulainn_Down_1/CuChulainn_Down_1.yy",
+    "name": "spr_cu_chulainn_down",
+    "path": "sprites/spr_cu_chulainn_down/spr_cu_chulainn_down.yy",
   },
   "solid": true,
   "visible": true,
@@ -35,6 +35,7 @@
     {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":86,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

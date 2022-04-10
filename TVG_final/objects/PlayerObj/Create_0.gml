@@ -14,3 +14,4 @@ holdframe = 0;
 AttackValue = 0;
 PlayerHealth = 100;
 SalmonCD = 1000;
+GaeBolgaCD = 300;

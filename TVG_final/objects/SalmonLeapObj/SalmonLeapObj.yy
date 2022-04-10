@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SalmonLeap_2",
-    "path": "sprites/SalmonLeap_2/SalmonLeap_2.yy",
+    "name": "SalmonLeap",
+    "path": "sprites/SalmonLeap/SalmonLeap.yy",
   },
   "solid": false,
   "visible": true,

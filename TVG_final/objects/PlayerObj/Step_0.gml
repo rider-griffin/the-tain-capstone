@@ -3,13 +3,12 @@
 
 if(salmon_leap == 1) self.sprite_index = Hidden;
 if(SalmonCD < 1000) SalmonCD += 1;
-
+if(GaeBolgaCD < 300) GaeBolgaCD += 1;
 if(salmon_leap == 0 && self.sprite_index == Hidden)
 {
 	if(Pdir == 1) self.sprite_index = CuChulainn_WeaponRight;
 	if(Pdir == 0) self.sprite_index = CuChulainn_WeaponLeft;
 }
-
 holdframe = 0;
 if(grounded == 0)
 {
