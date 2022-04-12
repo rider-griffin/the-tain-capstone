@@ -8,7 +8,11 @@
   "volume": 1.0,
   "length": 300.0,
   "events": {
-    "Keyframes": [],
+    "Keyframes": [
+      {"id":"643a4b58-e765-4f9e-97d2-de14c806bafa","Key":295.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Events":[
+              "map_travelled",
+            ],"resourceVersion":"1.0","resourceType":"MessageEventKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<MessageEventKeyframe>",},
+    ],
     "resourceVersion": "1.0",
     "resourceType": "KeyframeStore<MessageEventKeyframe>",
   },

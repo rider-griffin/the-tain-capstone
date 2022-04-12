@@ -135,6 +135,7 @@
     {"id":{"name":"spr_collision_box","path":"sprites/spr_collision_box/spr_collision_box.yy",},"order":0,},
     {"id":{"name":"Medb_CH3","path":"objects/Medb_CH3/Medb_CH3.yy",},"order":0,},
     {"id":{"name":"FergusTalkingAnim","path":"sprites/FergusTalkingAnim/FergusTalkingAnim.yy",},"order":0,},
+    {"id":{"name":"Narrator_notRoomStart","path":"objects/Narrator_notRoomStart/Narrator_notRoomStart.yy",},"order":14,},
     {"id":{"name":"spr_main_icon_2","path":"sprites/spr_main_icon_2/spr_main_icon_2.yy",},"order":10,},
     {"id":{"name":"FergusAngryAnim","path":"sprites/FergusAngryAnim/FergusAngryAnim.yy",},"order":1,},
     {"id":{"name":"PillowTalk_objects","path":"sprites/PillowTalk_objects/PillowTalk_objects.yy",},"order":0,},

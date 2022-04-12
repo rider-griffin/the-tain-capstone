@@ -114,10 +114,16 @@ function scr_game_text(_text_id) {
 		case "The tain bo cuailnge begins":
 			scr_text( "Everyone leaving a lover or a friend today will curse me. This army is gathered for me", "Medb" , -1);
 			//Fedelm approaches
+			scr_text("Click on Fedelm to hear her prophesy." );
+			break;
+		case "Fedelm clicked":
 			scr_text("Fedelm, prophetess; how seest thou the host?", "Medb", -1);
 			scr_text("I see it crimson, I see it red." , "Fedelm", -1);
 			scr_text("It can't be true. Conchobor is suffering his pangs in Emain with all the rest of the Ulster warriors. My messengers have come from there and told me. Fedelm, prophetess; how seest thou our host?" , "Medb - angry" , -1);
 			scr_text("A giant on the plain I see, doing battle with the host, holding in each of his two hands four short quick swords. I see him hurling against that host two gae bolga and a spear and an ivory-hilted sword, each weapon to its separate task.", "Fedelm", -1);
+			scr_text("Click on the army.");
+			break;
+		case "CH 2 Completed":
 			scr_text("Congratulations! You completed this level. The password to the next level is Poetry." );
 			scr_option("Go back to menu.", "Menu");
 			scr_option("Continue to next level.", "CH2 End");

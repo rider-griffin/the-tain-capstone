@@ -1,1 +1,1 @@
-room_goto(Map);
+room_goto(Map_CH2);
