@@ -1,18 +1,17 @@
 if(!global.pause) exit;
+draw_set_font(-1);
 
 var gwidth = global.view_width, gheight = global.view_height;
-
 var ds_grid = menu_pages[page], ds_height = ds_grid_height(ds_grid);
-//show_debug_message(ds_grid_height(ds_grid));
 var y_buffer = 32, x_buffer = 16;
 var start_y = gheight - y_buffer*6; 
 var start_x = gwidth/2;
 
 var start_y = (gheight/2) - ((((ds_height - 1)/2) * y_buffer)), start_x = gwidth/2;
 
-//Draw Pause Menu "Background"
-var c = c_ltgray;
-draw_rectangle_color(gwidth/2 - 150,gheight/2 - 100,gwidth/2 + 160,gheight/2 + 100,c,c,c,c,false); //black background
+//Draw Pause Menu "Background" and set text color
+draw_sprite_ext(spr_pause_menu, image_index, gwidth/2 - 190, gheight/2 - 117.5, 2, 1.25, 0, -1, 1)
+var c = c_white;
 
 //Draw Elements on Left Side 
 draw_set_valign(fa_middle);
@@ -37,6 +36,7 @@ repeat(ds_height)
 }
 
 //Draw Dividing Line
+draw_set_color(c_black);
 draw_line(start_x, start_y - y_buffer/2, start_x, lty+y_buffer/2);
 
 //Draw Elements on Right Side
@@ -81,7 +81,7 @@ repeat(ds_height)
 			var circle_pos = ((current_val - current_array[0]) / (current_array[1] - current_array[0]));
 			c = c_white;
 			
-			draw_line_width(rtx, rty, rtx + len, rty, 2);
+			draw_line_width(rtx, rty, rtx + len, rty, 1.55);
 			if(inputting and yy == menu_option[page])
 			{
 				c = c_yellow;

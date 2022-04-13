@@ -1,18 +1,15 @@
 if(!global.pause) exit;
-
+draw_set_font(-1);
 var gwidth = global.view_width, gheight = global.view_height;
 
 var ds_grid = menu_pages[page], ds_height = ds_grid_height(ds_grid);
-//show_debug_message(ds_grid_height(ds_grid));
 var y_buffer = 32, x_buffer = 16;
 var start_y = gheight - y_buffer*6; 
 var start_x = gwidth/2 - 10;
 
-//var start_y = (gheight/2) - ((((ds_height - 1)/2) * y_buffer)), start_x = gwidth/2;
 
-//Draw Pause Menu "Background"
+//set text color
 var c = c_black;
-//draw_rectangle_color(0,0,gwidth,gheight,c,c,c,c,false); //black background
 
 //Draw Elements on Left Side 
 draw_set_valign(fa_middle);

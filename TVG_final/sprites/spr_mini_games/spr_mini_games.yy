@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 69,
+  "bbox_right": 254,
   "bbox_top": 0,
-  "bbox_bottom": 9,
+  "bbox_bottom": 42,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 70,
-  "height": 10,
+  "width": 256,
+  "height": 55,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -25,7 +25,7 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"5776be4b-46d1-4a6e-a252-ae84f50de79e","path":"sprites/spr_mini_games/spr_mini_games.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5776be4b-46d1-4a6e-a252-ae84f50de79e","path":"sprites/spr_mini_games/spr_mini_games.yy",},"LayerId":{"name":"0d7c0c9a-2db9-4e6f-a1ed-9ae439eebb9e","path":"sprites/spr_mini_games/spr_mini_games.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"5776be4b-46d1-4a6e-a252-ae84f50de79e","path":"sprites/spr_mini_games/spr_mini_games.yy",},"LayerId":{"name":"cb325c18-e092-4e66-8c67-c4182e25e00d","path":"sprites/spr_mini_games/spr_mini_games.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_mini_games","path":"sprites/spr_mini_games/spr_mini_games.yy",},"resourceVersion":"1.0","name":"5776be4b-46d1-4a6e-a252-ae84f50de79e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 35,
-    "yorigin": 5,
+    "xorigin": 128,
+    "yorigin": 27,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mini_games","path":"sprites/spr_mini_games/spr_mini_games.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0d7c0c9a-2db9-4e6f-a1ed-9ae439eebb9e","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"cb325c18-e092-4e66-8c67-c4182e25e00d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
