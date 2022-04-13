@@ -22,9 +22,9 @@ if(inputting)
 		case menu_element_type.slider:
 			switch(menu_option[page])
 			{
-				case 0: if(!audio_is_playing(mus_menu)){ audio_play_sound(mus_menu, 1, false); } break;
-				case 1: if(!audio_is_playing(mus_menu)){ audio_play_sound(mus_menu, 1, false); } break;
-				case 2: if(!audio_is_playing(mus_menu)){ audio_play_sound(mus_menu, 1, false); } break;
+				case 0: if(!audio_is_playing(character_boop_medium)){ audio_play_sound(character_boop_medium, 1, false); } break;
+				case 1: if(!audio_is_playing(character_boop_medium)){ audio_play_sound(character_boop_medium, 1, false); } break;
+				case 2: if(!audio_is_playing(character_boop_medium_low)){ audio_play_sound(character_boop_medium_low, 1, false); } break;
 			}
 			var hinput = keyboard_check(global.key_right) - keyboard_check(global.key_left);
 			if(hinput != 0)

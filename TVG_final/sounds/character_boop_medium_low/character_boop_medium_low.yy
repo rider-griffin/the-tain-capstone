@@ -8,8 +8,8 @@
   "type": 0,
   "bitDepth": 1,
   "audioGroupId": {
-    "name": "audiogroup_soundeffects",
-    "path": "audiogroups/audiogroup_soundeffects",
+    "name": "audiogroup_music",
+    "path": "audiogroups/audiogroup_music",
   },
   "soundFile": "character_boop_medium_low.wav",
   "duration": 0.275125,
