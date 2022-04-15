@@ -290,6 +290,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
+    {"roomId":{"name":"Combat_CH11","path":"rooms/Combat_CH11/Combat_CH11.yy",},},
     {"roomId":{"name":"Combat_CH5","path":"rooms/Combat_CH5/Combat_CH5.yy",},},
     {"roomId":{"name":"Army_Camp_CH7","path":"rooms/Army_Camp_CH7/Army_Camp_CH7.yy",},},
     {"roomId":{"name":"Army_Camp_CH3","path":"rooms/Army_Camp_CH3/Army_Camp_CH3.yy",},},
@@ -321,7 +322,6 @@
     {"roomId":{"name":"Combat_CH7","path":"rooms/Combat_CH7/Combat_CH7.yy",},},
     {"roomId":{"name":"Combat_CH8","path":"rooms/Combat_CH8/Combat_CH8.yy",},},
     {"roomId":{"name":"Combat_CH10","path":"rooms/Combat_CH10/Combat_CH10.yy",},},
-    {"roomId":{"name":"Combat_CH11","path":"rooms/Combat_CH11/Combat_CH11.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

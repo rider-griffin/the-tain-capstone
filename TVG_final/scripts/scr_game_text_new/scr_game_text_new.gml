@@ -339,6 +339,8 @@ function scr_game_text(_text_id) {
 			//Next day, battle at the dark background ford 
 			scr_text("Ferdia got up early next day and came out alone to the ford of battle, for he knew that this day would decide the fierce struggle, and that one of them, or both, would fall.");
 			scr_text("Hound of the bright deeds, you have killed me unfairly. Your guilt clings to me as my blood sticks to you.", "Ferdia - dying" , -1);
+			break;
+		case "CH 11 Combat Completed": 
 			scr_text("Congratulations! You completed this level. The password to the next level is Loyalty." );
 			scr_option("Go back to menu.", "Menu");
 			scr_option("Continue to next level.", "CH11 End");
