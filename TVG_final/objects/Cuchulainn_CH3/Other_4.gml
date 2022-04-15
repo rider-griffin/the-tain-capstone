@@ -1,1 +1,1 @@
-create_textbox(text_id);
+if(room == Cuchulain_Camp_CH3 ) create_textbox(text_id);
