@@ -109,8 +109,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "CuChulainnMovements",
-    "path": "folders/Sprites/JacobSprites/CuChulainnMovements.yy",
+    "name": "AttackAnimations",
+    "path": "folders/Sprites/JacobSprites/AttackAnimations.yy",
   },
   "resourceVersion": "1.0",
   "name": "CuChulainn_RageMode",

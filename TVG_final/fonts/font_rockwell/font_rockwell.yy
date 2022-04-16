@@ -3,6 +3,7 @@
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
+  "applyKerning": 0,
   "fontName": "Rockwell",
   "styleName": "Bold",
   "size": 22.0,
@@ -20,6 +21,7 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
+  "ascender": 0,
   "glyphs": {
     "32": {"x":2,"y":2,"w":7,"h":34,"character":32,"shift":7,"offset":0,},
     "33": {"x":167,"y":74,"w":6,"h":34,"character":33,"shift":10,"offset":2,},

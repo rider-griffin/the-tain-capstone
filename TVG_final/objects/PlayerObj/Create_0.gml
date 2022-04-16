@@ -15,3 +15,6 @@ AttackValue = 0;
 PlayerHealth = 100;
 SalmonCD = 1000;
 GaeBolgaCD = 300;
+RageCD = 1000;
+rage_mode = 0;
+tooltips = 0;

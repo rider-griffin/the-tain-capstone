@@ -1,3 +1,7 @@
+
+/// @description Insert description here
+// You can write your code in this editor
+
 if(EnemyHealth <= 0) self.sprite_index = EnemyDeathSpr;
 else
 {
@@ -32,13 +36,14 @@ if(PlayerObj.x > self.x)
         self.x += 2;
         hit = 1;
     }
+    EDir = 1;
 }
-if(PlayerObj.x < self.x)
+if(PlayerObj.x <= self.x)
 {
     if(dist2x <= 500)
     {
         self.x -= 2;
         hit = 1;
     }
+    EDir = 0;
 }
-
