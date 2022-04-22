@@ -34,7 +34,7 @@ if(point_in_rectangle(mouse_x, mouse_y, x - sprite_width/2, y - sprite_height/2,
 			}
 			else if(pass == "Bravery" && image_index == 4)
 			{
-				room_goto(Combat_CH5);
+				room_goto(Combat_woods_CH5);
 			}
 			else if(pass == "Equality" && image_index == 5)
 			{

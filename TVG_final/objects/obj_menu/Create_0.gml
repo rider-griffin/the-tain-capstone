@@ -39,8 +39,8 @@ ds_menu_main = create_menu_page(
 );
 
 ds_menu_game = create_menu_page(
-	["Mini Games", menu_element_type.script_runner, change_room],
 	["Main Story", menu_element_type.script_runner, change_room],
+	["Mini Games", menu_element_type.script_runner, change_room],
 	["Back", menu_element_type.page_transfer, menu_page.main]
 );
 

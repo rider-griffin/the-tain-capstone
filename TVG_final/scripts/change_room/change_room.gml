@@ -4,8 +4,13 @@ function change_room()
 {
 	var type = menu_option[page];
 	
-	//Mini Games
+	//Main Games
 	if(type == 0)
+	{
+		room_goto(room_main_games_menu); 
+	}
+	//Mini Story
+	else if(type == 1)
 	{
 		room_goto(room_mini_games_menu); 
 	}

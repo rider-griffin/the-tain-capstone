@@ -24,9 +24,16 @@ repeat(ds_height)
 	c = c_black;
 	xo = 0;
 	
+	//set text color to white
 	if(yy == menu_option[page]){
 		c = c_white;
 		xo = -(x_buffer/2);
+		
+		//gray out min games option.still clickable
+		if(menu_option[page] == 1 && menu_pages[page] == 1)
+		{
+			c = c_dkgray;
+		}
 	}
 	
 	draw_text_color(ltx, lty, ds_grid[# 0, yy], c,c,c,c, 1);
@@ -34,6 +41,7 @@ repeat(ds_height)
 }
 
 //Draw Dividing Line
+draw_set_color(c_black);
 draw_line(start_x, start_y - y_buffer/2, start_x, lty+y_buffer/2);
 
 //Draw Elements on Right Side

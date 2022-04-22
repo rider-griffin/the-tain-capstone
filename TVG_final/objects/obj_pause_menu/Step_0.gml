@@ -15,6 +15,7 @@ if(!global.pause)
 {
 	instance_activate_all();
 	draw_set_font(global.font_main);
+	draw_set_color(c_white);
 	audio_resume_all();
 	exit;
 }

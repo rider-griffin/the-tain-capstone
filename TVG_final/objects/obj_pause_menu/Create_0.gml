@@ -1,4 +1,5 @@
 global.pause = false;
+global.font_main = font_add_sprite(spr_main_font, 32, true, 1);
 global.view_width = camera_get_view_width(view_camera[0]);
 global.view_height = camera_get_view_height(view_camera[0]);
 
