@@ -6,6 +6,12 @@ input_enter_p = keyboard_check_pressed(global.key_enter);
 
 var ds_grid = menu_pages[page], ds_height = ds_grid_height(ds_grid);
 
+if(!audio_is_playing(MainMenuTheme))
+{
+	//Play music
+	audio_play_sound(MainMenuTheme, 0, true);
+}
+
 if(inputting)
 {
 	switch(ds_grid[# 1, menu_option[page]])
