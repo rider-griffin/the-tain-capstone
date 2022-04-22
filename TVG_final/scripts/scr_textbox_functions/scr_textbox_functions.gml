@@ -1,8 +1,10 @@
 function scr_set_defaults_for_text() {
+	audio_group_load(audiogroup_soundeffects);
+	audio_group_load(audiogroup_music);
+	audio_group_load(audiogroup_default);
 	line_break_pos[0, page_number] = 999;
 	line_break_num[page_number] = 0;
 	line_break_offset[page_number] = 0;
-	show_debug_message("setting defaults");
 	//variables for every letter / character
 	for (var c = 0; c < 500; c++) {
 		
@@ -154,7 +156,89 @@ function scr_text(_text) {
 			txtb_spr[page_number] = spr_textbox_blue;
 			snd[page_number] = character_boop_low;
 			break;
+			
+		//Conchobor
+		case "Conchobor":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_low;
+			break;
+		case "Conchobor - surprised":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_low;
+			break;
+			
+		//Cathbad
+		case "Cathbad":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_red;
+			snd[page_number] = character_boop_low;
+			break;
+			
+		//Nadcranntail
+		case "Nadcranntail":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_low;
+			break;
+		case "Nadcranntail - surprised":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_low;
+			break;
+			
+			
+		//Boy Troop
+		case "Boy troop":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_low;
+			break;
+			
+		//Warrior
+		case "Warrior":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_red;
+			snd[page_number] = character_boop_low;
+			break;
+			
+		//Ferdia
+		case "Ferdia":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_medium_high;
+			break;
+		case "Ferdia - dying":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_blue;
+			snd[page_number] = character_boop_medium_high;
+			break;
+			
+		//Sualdam
+		case "Sualdam":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_red;
+			snd[page_number] = character_boop_low;
+			break;
+			
+		//A druid
+		case "A druid":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_red;
+			snd[page_number] = character_boop_low;
+			break;
+		
+		//Conall Cernach
+		case "Conall Cernach":
+			speaker_sprite[page_number] = Placeholder_spk;
+			txtb_spr[page_number] = spr_textbox_red;
+			snd[page_number] = character_boop_low;
+			break;
+			
+		
 		}
+		
 		
 	}
 	

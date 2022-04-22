@@ -6,12 +6,16 @@ input_escape_p = keyboard_check_pressed(global.key_escape);
 if(input_escape_p)
 {
 	global.pause = true;
-	instance_deactivate_layer("Instances");
+	instance_deactivate_all(true);
+	//Pause Music
+	audio_pause_all();
 }
 
 if(!global.pause) 
 {
-	instance_activate_layer("Instances"); 
+	instance_activate_all();
+	draw_set_font(global.font_main);
+	audio_resume_all();
 	exit;
 }
 
